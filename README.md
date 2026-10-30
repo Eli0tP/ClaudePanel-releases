@@ -6,7 +6,7 @@ Un petit écran d’accueil pour ouvrir **Claude**, **Claude Code** et gérer te
 
 ## Télécharger
 
-**Windows 10 et 11** : ouvre la [dernière version](https://github.com/Nthhh92/ClaudePanel-releases/releases/latest) et télécharge le fichier `ClaudePanel_…_x64-setup.exe`.
+**Windows 10 et 11** : ouvre la [dernière version](https://github.com/Eli0tP/ClaudePanel-releases/releases/latest) et télécharge le fichier `ClaudePanel_…_x64-setup.exe`.
 
 Double-clique dessus et suis les étapes. Pas besoin d’être administrateur.
 
@@ -44,7 +44,7 @@ A little home screen to open **Claude**, **Claude Code** and manage your **skill
 
 ### Download
 
-**Windows 10 and 11**: open the [latest version](https://github.com/Nthhh92/ClaudePanel-releases/releases/latest) and download `ClaudePanel_…_x64-setup.exe`. Double-click it and follow the steps; no admin rights needed.
+**Windows 10 and 11**: open the [latest version](https://github.com/Eli0tP/ClaudePanel-releases/releases/latest) and download `ClaudePanel_…_x64-setup.exe`. Double-click it and follow the steps; no admin rights needed.
 
 > Windows may say “Windows protected your PC” because the app isn’t signed yet. Click **More info**, then **Run anyway**.
 
